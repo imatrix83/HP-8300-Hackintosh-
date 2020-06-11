@@ -1,5 +1,5 @@
 # HP-CompaqElite8300-Hackintosh
-helo and Welcom
+Hello & Welcome to iMatrix83's github.com 
 
 1-Download the EFI folder Zip File
 
